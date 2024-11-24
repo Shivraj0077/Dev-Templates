@@ -1,0 +1,7 @@
+echo "# Dev-Templates" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Shivraj0077/Dev-Templates.git
+git push -u origin main
