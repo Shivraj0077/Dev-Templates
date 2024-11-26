@@ -1,0 +1,3 @@
+For client side issues -> 
+write : 'use client'
+and not 'use-client'
